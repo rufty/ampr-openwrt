@@ -1,0 +1,11 @@
+--- a/Makefile	2017-04-07 21:49:33.000000000 +0100
++++ b/Makefile	2017-04-15 21:59:38.116646365 +0100
+@@ -17,7 +17,7 @@
+ 	$(CC) $(CFLAGS) -c $<
+ 
+ amprd:	$(OBJFILES)
+-	$(LD) $(LDFLAGS) -o amprd $(OBJFILES)
++	$(CC) $(LDFLAGS) -o amprd $(OBJFILES)
+ 
+ all:	amprd
+ 
