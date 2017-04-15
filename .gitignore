@@ -1,0 +1,12 @@
+*~
+tags
+.*.swp
+.AppleDouble
+.DS_Store
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.com.apple.timemachine.supported
+.depend
+.fseventsd
+.metadata_never_index
