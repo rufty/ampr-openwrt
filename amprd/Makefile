@@ -15,7 +15,7 @@ define Package/$(PKG_NAME)
 	SECTION:=net
 	CATEGORY:=Network
 	SUBMENU:=Routing and Redirection
-	TITLE:=$(PKG_NAME)
+	TITLE:=IPIP encapsulation daemon for the AMPR network
 	MAINTAINER:=Bill Hill <bugs@wbh.org>
 endef
 
