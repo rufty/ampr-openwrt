@@ -14,6 +14,7 @@ include $(INCLUDE_DIR)/package.mk
 define Package/$(PKG_NAME)    
 	SECTION:=net
 	CATEGORY:=Network
+	SUBMENU:=Routing and Redirection
 	TITLE:=$(PKG_NAME)
 	MAINTAINER:=Bill Hill <bugs@wbh.org>
 endef
