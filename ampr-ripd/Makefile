@@ -1,7 +1,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=ampr-ripd
-PKG_VERSION:=2.3
+PKG_VERSION:=2.4
 PKG_RELEASE:=1
 PKG_SOURCE_URL:=http://www.yo2loj.ro/hamprojects
 PKG_MD5SUM:=3753e634aa1154ebba290d0cd4055891
