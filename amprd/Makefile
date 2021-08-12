@@ -1,7 +1,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=amprd
-PKG_VERSION:=2.1
+PKG_VERSION:=3.0
 PKG_RELEASE:=1
 PKG_SOURCE_URL:=http://www.yo2loj.ro/hamprojects
 PKG_MD5SUM:=a7afe52dc8cc32727b3340b4cfe0b2a1
